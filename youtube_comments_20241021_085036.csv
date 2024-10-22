@@ -1,0 +1,72 @@
+author,comment,published_at
+@DarshilParmar,"EDIT:
+Elon Musk ruined the API part, you can use some other APIs
+
+Here's one of the subscriber built the same project using other APIs - https://chenmeiqiao.notion.site/How-I-Reach-Out-to-YouTubers-I-Like-As-A-Data-Engineer-c37bdddefde54c3789229ffa5a789432
+
+or you can use a static dataset from Kaggle and then use Airflow to process it
+https://www.kaggle.com/datasets/mmmarchetti/tweets-dataset
+
+FAQ:
+1. Twitter removed free access: It still has free access but with limits of requests you can make - https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api
+
+2. You need to request for V2 access: You will get an error but just by reading the doc you should be able to access Elevated Access
+
+
+Worked very hard for this project🤞
+Don’t forget to hit the like button and if you want to support my work you can join channel membership, it's only 59rs per month so that I can keep these content for free",2022-09-20T12:06:19Z
+@yeshapatel5273,"When i am running the below command i am facing some error any suggestion
+
+$ airflow standalone
+
+standalone | Starting Airflow Standalone
+
+standalone | Checking database is initialized
+
+INFO  [alembic.runtime.migration] Context impl SQLiteImpl.
+
+INFO  [alembic.runtime.migration] Will assume non-transactional DDL.
+
+INFO  [alembic.runtime.migration] Context impl SQLiteImpl.
+
+INFO  [alembic.runtime.migration] Will assume non-transactional DDL.
+
+WARNI [airflow.models.crypto] empty cryptography key - values will not be stored encrypted.
+
+standalone | Database ready
+
+/home/ubuntu/airflow_venv/lib/python3.12/site-packages/flask_limiter/extension.py:333 UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.",2024-10-16T02:00:36Z
+@prasadmuthyala9625,Please do video on enterprise project. And how individual data engineer will get tasks and push tasks in real time,2024-10-13T09:50:44Z
+@kraghavendra6444,"darshil i have a doubt here, why do we need to deploy airflow in ec2 instance , we can use it independently on our local machine right?",2024-10-02T17:52:02Z
+@ayushigupta5087,If python and pip install different location how to install libraries,2024-09-30T15:09:09Z
+@deepam.g4558,"Note that Airflow need atleast 2GB RAM, hence cannot be installed on free tier.",2024-09-25T15:24:45Z
+@omarsabor653,the airflow standalone command get stuck in (paralelisme 1 ) idk but may there is something doesn't work in t2.micro,2024-09-25T00:14:56Z
+@deepam.g4558,"Hello Darshil, Is it possible to install these pip packages in python virtual environment and fire airflow from there ?",2024-09-20T17:25:51Z
+@saisalunkhe2300,"I am getting this error despite putting the correct credentials 
+
+tweepy.errors.Forbidden: 403 Forbidden
+When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
+
+
+Please help!!",2024-09-20T16:41:10Z
+@rembautimes8808,Thanks - very comprehensive tutorial,2024-09-10T16:05:56Z
+@rahulagrawal622,"Hi @darshil 
+will i get charged ? if  i use AWS EC2 & S3 bucket in free tier , because i have heard people getting bills even on free tier aws account ?",2024-09-07T14:36:37Z
+@hirenparkar7480,"Attention ❗❗❗❗❗❗❗
+Anyone trying to do this project please check this imp note
+Twitter has made changes to its API access levels, and some v1.1 endpoints are no longer freely available.
+so that's why I wasn't able to do this project.
+
+Thankyou Darshil bro for this wonderful project, even if I wasn't able to execute this project. I was able to understand about the project.
+Thanks again for helping all of us in this Big Data Engineering journey",2024-08-29T07:21:58Z
+@mustafamujahid3964,Informative.,2024-08-28T21:23:49Z
+@Karthik-z2y,Hi Can you show one on how to do it for SQL instead of Amazon,2024-08-27T01:59:25Z
+@gokulsn8909,"Getting this Error:
+Error: 403 Forbidden
+453 - You currently have access to a subset of Twitter API v2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.twitter.com/en/portal/product",2024-08-18T15:24:24Z
+@SQLPandasPro,"Hi @Darshil, I am trying to install apache-airflow but its throwing google-re2 error. I tried both in Ubuntu system on Window and also directly on window. But its not woirking. I also tried pip install google-re2 but its failing. Could you please suggest me how to reolve this error. Thanks in advance.",2024-08-17T19:48:07Z
+@sufiyankhan726,Seriously thanks dudeee❤,2024-08-15T04:15:13Z
+@laminann1958,"This video really help me to build my first data pipeline with a different API, it is really helpful. 
+Thank you Darshil.",2024-08-02T22:19:41Z
+@chaiseee1642,"Very good tutorial, excellent 😊",2024-07-27T18:00:32Z
+@abhishekgour103,bhai aap jadoo gar ho data ke,2024-07-26T12:17:22Z
