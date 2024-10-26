@@ -59,5 +59,5 @@ def run_youtube_etl():
         
         print(f"Comments have been saved to S3 bucket: s3://li-airflow-youtube-bucket/youtube_comment.csv")
 
-    # Execute the main function
+    # Execute the main function.
     main()
